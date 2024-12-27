@@ -1712,7 +1712,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	
 	OrionLib:MakeNotification({
 		Name = "Sunucumuza Katılın",
-		Content = "Detaylar için ;https://discord.com/invite/xTafcNjWcd ",
+		Content = "Detaylar için ; https://discord.com/invite/xTafcNjWcd ",
 		Time = 8
 	})
 	
